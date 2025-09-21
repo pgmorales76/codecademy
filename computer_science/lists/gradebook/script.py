@@ -24,7 +24,8 @@ gradebook.append(["visual arts", 93])
 
 # Add 5 points to visual arts grade
 gradebook[-1][-1] += 5
-#gradebook[5][1] += 5 Alternatively, use explicit index if list order is known
+# Alternatively, use explicit index if list order is known
+# gradebook[5][1] += 5
 
 gradebook[2].remove(85)
 
