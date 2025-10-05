@@ -4,7 +4,7 @@ Hello, world!
 
 This is the repo, for my ***Len's Slice*** project, from Codecademy.
 
-In this project, I work at Len’s Slice, a new pizza joint in the neighborhood.
+In this project, I work at Len’s Slice, a new pizza joint, in the neighborhood.
 
 I'm going to use my knowledge of Python lists, to organize, some of, my sales data.
 
