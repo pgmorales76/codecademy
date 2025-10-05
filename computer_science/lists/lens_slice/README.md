@@ -10,7 +10,7 @@ I'm going to use my knowledge of Python lists, to organize, some of, my sales da
 
 When I become owner, I'm DEFINITELY taking "[Pineapple](https://youtu.be/rKuR-1TC7s4?si=qVXbmHz1dinqXdKf&t=55)" off the toppings menu!🤣
 
-I've tried, and I've [DENIED](https://youtu.be/RD1KqbDdmuE?si=bqahbAYQ9kKjoJUP&t=9)!🤣
+I've tried, and I've [DENIED](https://youtu.be/RD1KqbDdmuE?si=mMKaspu9vRFMdWav&t=5)!🤣
 
 Anything you can put in fruit salad, DOESN'T BELONG ON A PIZZA!🤣
 
