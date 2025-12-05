@@ -22,6 +22,8 @@ For example, the hairstyle "bouffant" has an associated price of 30 from the `pr
 
 Each of these elements are in the first index, of their, respective, lists.
 
+After leaving Carly's, you're gonna [walk in, to the party, like you're walkin onto a yacht](https://www.youtube.com/watch?v=j13oJajXx0M)!🤣
+
 I hope you find this project interesting.
 
 Let me know, what you think.
