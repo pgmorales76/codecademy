@@ -24,6 +24,8 @@ Each, of these elements, are in the first index, of their, respective, lists.
 
 After leaving Carly's, you're gonna [walk in, to the party, like you're walkin onto a yacht](https://www.youtube.com/watch?v=j13oJajXx0M)!🤣
 
+Carly will be happy, for you, but, she'll think, "You're so . . . !"🤣
+
 I hope you find this project interesting.
 
 Let me know, what you think.
