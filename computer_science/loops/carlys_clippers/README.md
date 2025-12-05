@@ -8,7 +8,7 @@ In this project, I'm the Data Analyst at Carly’s Clippers, the, newest, hair s
 
 My job is to go through the lists, of data, that have been collected, in the past, couple of weeks.
 
-I will be calculating some important metrics that Carly can use, to plan out, the operation, of the business, for the rest, of the month.
+I will be calculating some important metrics, Carly can use, to plan out, the operation, of the business, for the rest, of the month.
 
 I have been provided with three lists:
 
