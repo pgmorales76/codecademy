@@ -16,7 +16,7 @@ I have been provided with three lists:
 2. `prices`: the price, of each hairstyle, in the hairstyles list.
 3. `last_week`: the number of purchases, for each hairstyle type, in the last week.
 
-Each index, in hairstyles, corresponds to an associated index, in `prices`, and `last_week`.
+Each index, in hairstyles, corresponds, to an associated index, in `prices`, and `last_week`.
 
 For example, the hairstyle "bouffant" has an associated price of 30 from the `prices` list, and was purchased 2 times, in the last week, as shown, in the `last_week` list.
 
