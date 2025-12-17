@@ -10,7 +10,7 @@ I'm going to provide my students, with functions, that will help them calculate,
 
 While I may not be, as smart as, Mr. Clarke, I'm, just, as cool!🤣
 
-Time, to open, that "[curiosity door](https://youtu.be/IrucTqm9ngU?si=f28Wxi8Zde-Z50vE&t=62)!"🤣
+Time, to open, that "[curiosity door](https://youtu.be/IrucTqm9ngU?si=f28Wxi8Zde-Z50vE&t=62)"!🤣
 
 I hope you find this project interesting.
 
