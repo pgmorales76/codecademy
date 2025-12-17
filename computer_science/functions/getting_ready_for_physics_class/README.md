@@ -1,4 +1,4 @@
-# Welcome to the ***Getting Ready for Physics Class*** Project!
+# Welcome to the ***Getting Ready for Physics Class*** Project
 
 Hello, world!
 
