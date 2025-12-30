@@ -1,0 +1,61 @@
+This file is to represent the bash commands used, in the project.
+
+Here is the file structure:
+
+bicycle-world-ii
+|—— brands.txt
+|—— freight/
+|   |—— messenger/
+|   |—— porteur/
+|—— mountain/
+|   |—— downhill/
+|   |   |—— heavyweight/
+|   |   |—— lightweight/
+|   |—— hardtail/
+|—— racing/
+    |—— road/
+    |—— track/
+
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii
+
+$ cd /home/ccuser/workspace/bicycle-world-ii
+
+$ ls
+brands.txt  freight  mountain  racing
+
+$ cd freight
+
+$ ls
+messenger  porteur
+
+$ cd porteur
+
+$ cd ../..
+$ ls
+brands.txt  freight  mountain  racing
+
+$ cd mountain/downhill
+
+$ touch dirt.txt
+
+$ touch mud.txt
+
+$ ls
+dirt.txt  heavyweight  lightweight  mud.txt
+
+$ mkdir safety
+
+$ cd ../..
+
+$ ls
+brands.txt  freight  mountain  racing
+
+$ mkdir bmx
+
+$ touch bmx/tricks.txt
+
+$ ls
+bmx  brands.txt  freight  mountain  racing
+
+This is a good, starter, project, for those wanting to learn, basic, command line prompts.
