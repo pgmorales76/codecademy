@@ -1,0 +1,61 @@
+$ git init
+Initialized empty Git repository in /home/ccuser/workspace/manhattan-zoo-1/.git/
+$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        meal-regimens.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+$ git add meal-regimens.txt
+$ git commit -m "Added meal-regimens file"
+[master (root-commit) 1a5240d] Added meal-regimens file
+ 1 file changed, 14 insertions(+)
+ create mode 100644 meal-regimens.txt
+$ git add meal-regimens.txt
+$ 
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   meal-regimens.txt
+
+$ git commit -m "Added 3. Long-Tailed Chinchillas, to meal-regimens.txt"
+[master 0c9f520] Added 3. Long-Tailed Chinchillas, to meal-regimens.txt
+ 1 file changed, 4 insertions(+)
+$ git log
+commit 0c9f5207aebeeee7b64f94a1a3d7ec1faba8082e
+Author: codecademy <ccuser@codecademy.com>
+Date:   Sun Jan 11 08:52:01 2026 +0000
+
+    Added 3. Long-Tailed Chinchillas, to meal-regimens.txt
+
+commit 1a5240d0a993f4b241427c553b628e8b3bd69a24
+Author: codecademy <ccuser@codecademy.com>
+Date:   Sun Jan 11 08:49:54 2026 +0000
+
+    Added meal-regimens file
+$ git add meal-regimens.txt; git commit -m "Added fourth animal report, for poison dart frogs"
+[master 16eb0df] Added fourth animal report, for poison dart frogs
+ 1 file changed, 5 insertions(+)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   meal-regimens.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git add meal-regimens.txt; git commit -m "Added fifth animal report, for western lowland gorilla"
+[master b771ba5] Added fifth animal report, for western lowland gorilla
+ 1 file changed, 5 insertions(+)
+$ git status
+On branch master
+nothing to commit, working directory clean
+$ 
