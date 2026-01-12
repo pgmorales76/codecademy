@@ -4,7 +4,7 @@ Hello, world!
 
 This is the repo, for my ***The Boredless Tourist*** project, from Codecademy.
 
-Welcome to The Boredless Tourist, an online application, giving you the power, to find the parts, of the city, that fit, the pace of, your life.
+Welcome to ***The Boredless Tourist***, an online application, giving you the power, to find the parts, of the city, that fit, the pace of, your life.
 
 We at ***The Boredless Tourist*** run a recommendation engine, using Python.
 
