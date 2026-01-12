@@ -1,0 +1,102 @@
+$ git init
+Initialized empty Git repository in /home/ccuser/workspace/snapfit-robots/.git/
+$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        disclaimer.txt
+        instructions.txt
+        warranty.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+$ git add disclaimer.txt instructions.txt warranty.txt
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   disclaimer.txt
+        new file:   instructions.txt
+        new file:   warranty.txt
+
+$ git commit -m "Created disclaimer, instructions, and warranty, files"
+[master (root-commit) 38a097b] Created disclaimer, instructions, and warranty, files
+ 3 files changed, 70 insertions(+)
+ create mode 100644 disclaimer.txt
+ create mode 100644 instructions.txt
+ create mode 100644 warranty.txt
+$ git log
+commit 38a097be10787a5e322f83d96deff7f7ddce1405
+Author: codecademy <ccuser@codecademy.com>
+Date:   Mon Jan 12 04:24:29 2026 +0000
+
+    Created disclaimer, instructions, and warranty, files
+$ git add disclaimer.txt
+$ git commit -m "Added warning, to disclaimer file"
+[master becdf19] Added warning, to disclaimer file
+ 1 file changed, 1 insertion(+)
+$ git log
+commit becdf198b18c08d7d78d0a388f52991af8f2edee
+Author: codecademy <ccuser@codecademy.com>
+Date:   Mon Jan 12 04:26:22 2026 +0000
+
+    Added warning, to disclaimer file
+
+commit 38a097be10787a5e322f83d96deff7f7ddce1405
+Author: codecademy <ccuser@codecademy.com>
+Date:   Mon Jan 12 04:24:29 2026 +0000
+
+    Created disclaimer, instructions, and warranty, files
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   instructions.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git add instruction.txt
+fatal: pathspec 'instruction.txt' did not match any files
+$ git add instructions.txt
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   instructions.txt
+
+$ git commit -m "Added new voice command"
+[master f427347] Added new voice command
+ 1 file changed, 2 insertions(+)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   warranty.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git add warranty.txt
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   warranty.txt
+
+$ git commit -m "Added new warranty policy"
+[master 922b341] Added new warranty policy
+ 1 file changed, 1 insertion(+)
+$ git status
+On branch master
+nothing to commit, working directory clean
+$
