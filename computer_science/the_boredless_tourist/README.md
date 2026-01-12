@@ -8,7 +8,7 @@ Welcome to The Boredless Tourist, an online application, giving you the power, t
 
 We at ***The Boredless Tourist*** run a recommendation engine, using Python.
 
-We first evaluate what a person’s interests are, and, then, give them recommendations, in their area, to venues, restaurants, and historical destinations, that we think they’ll be engaged by.
+We, first, evaluate what a person’s interests are, and, then, give them recommendations, in their area, to venues, restaurants, and historical destinations, that we think they’ll be engaged by.
 
 Let’s get started!
 
