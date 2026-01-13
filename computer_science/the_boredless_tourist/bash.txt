@@ -1,0 +1,34 @@
+$ git init
+Initialized empty Git repository in /home/ccuser/workspace/cspath-capstones-boredless-tourist/.git/
+$ git add script.py
+$ git commit -m "initial commit"
+[master (root-commit) e9a76d3] initial commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 script.py
+ git add script.py
+$ git commit -m "Added test objects"
+$ python3 script.py
+$ python3 script.py
+1
+$ git add script.py
+$ git commit -m "Added logic to find traveler destinations and convert to internal data"
+On branch master
+nothing to commit, working tree clean
+$ python3 script.py
+[[], [], [], [], []]
+$ python3 script.py
+[[], [], [['Venice Beach', ['beach']]], [], []]
+$ git add script.py
+$ git commit -m "Created attractions and functionality for adding new attractions"
+[master fa9871d] Created attractions and functionality for adding new attractions
+ 1 file changed, 27 insertions(+), 2 deletions(-)
+$ python3 script.py
+[['LACMA', ['art', 'museum']]]
+$ python3 script.py
+['LACMA']
+git add script.py
+$ git commit -m "Added interest finder logic"
+[master db330fb] Added interest finder logic
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+git add script.py
+git commit -m "Added function to generate message for traveler and present attractions they might be interested in."
